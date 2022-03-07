@@ -1,0 +1,29 @@
+{
+  "name": "fswd",
+  "version": "1.0.0",
+  "description": "This is the starting node jas",
+  "main": "tut1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek1632/FSWD.git"
+  },
+  "keywords": [
+    "Hello"
+  ],
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek1632/FSWD/issues"
+  },
+  "homepage": "https://github.com/Abhishek1632/FSWD#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
